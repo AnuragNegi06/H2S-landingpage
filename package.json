@@ -8,7 +8,10 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+<<<<<<< HEAD
     
+=======
+>>>>>>> 06d7addaca6d085f6b09afdbd2e2074b1d947896
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.4",
