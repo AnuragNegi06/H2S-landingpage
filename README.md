@@ -20,14 +20,14 @@ You can view the live site here: [https://H2Skill.vercel.app](https://H2Skill.ve
 H2S-landingpage/
 ├── public/                # Static assets (favicons, Images, icons, and global styles)
 ├── src/
-│   ├── components/        # Reusable UI components (Navbar, Hero, About, Contact)
+    ├── components/        # Reusable UI components (Navbar, Hero, About, Contact)
         ├── About/
         ├── Hero/
         ├── Challenges/
         ├── Reward/
         ├── Schedule/
         ├── Faqs/
-│   ├── page/              # Major page sections (Home)
+    ├── page/              # Major page sections (Home)
         ├── Home/
 │   ├── data/              # Custom data (data.challenges.js)
 ├── Index.css              # Main css( @Tailwindcss )
