@@ -4,7 +4,7 @@
 This is a modern, responsive landing page. The project focuses on high performance and clean UI/UX to ensure a seamless user experience across all devices.
 
 ### 🌐 Live Demo
-You can view the live site here: [https://H2Skill.vercel.app](https://H2Skill.vercel.app)
+You can view the live site here: [https://H2Skill.vercel.app](https://H2Skill.vercel.app) or [https://anuragnegi06.github.io/H2S-landingpage/](https://anuragnegi06.github.io/H2S-landingpage/)
 
 ### ✨ Key Features
 * **Fully Responsive:** Optimized for mobile, tablet, and desktop views.
