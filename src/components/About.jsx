@@ -122,7 +122,7 @@ function About(){
                         <div class="z-3 absolute w-70 h-70 bg-linear-to-b from-purple-500 to-blue-500/0 rounded-full border-2 animate-spin"></div>
                         <div class="z-3 absolute w-60 h-60 bg-linear-to-tr from-purple-500/0 to-blue-500 rounded-full border-2 animate-spin"></div>
                     
-                        <img src="/images/astro.png" alt="Astronaut" class="relative z-10 w-60 h-60" />
+                        <img src="images/astro.png" alt="Astronaut" class="relative z-10 w-60 h-60" />
                     </div>
 
 
@@ -174,7 +174,7 @@ function About(){
                 {faqsdata.map((faq,index)=> <Faqs faq={faq} key={index} />)}
                 
             </section>
-            <div className="h-150 w-full bg-[url('/images/bg3.png')] bg-cover bg-center text-white gap-30 ">
+            <div className="h-150 w-full bg-[url('images/bg3.png')] bg-cover bg-center text-white gap-30 ">
             </div>
         </main>
         
