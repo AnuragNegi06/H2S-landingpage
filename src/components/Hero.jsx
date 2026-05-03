@@ -3,7 +3,7 @@ function Hero(){
     return (
       
         
-                <div className=" flex-col h-screen w-full bg-[url('images/bg1.jpg')] bg-cover bg-center text-white gap-30 ">
+                <div className=" flex-col h-screen w-full bg-[url('public/images/bg1.jpg')] bg-cover bg-center text-white gap-30 ">
                     
                 <Navbar />
                 
@@ -11,7 +11,7 @@ function Hero(){
                     <div>
                         <div className="flex bg-violet-600 h-70 w-68 justify-center ml-10 relative z-2">
                         <span className="text-white font-bold absolute text-7xl z-3 left-55 bottom-70">CODE THE FUTURE </span>
-                        <img src="/public/images/model.png" alt="model_photo" className="absolute h-100 z-1 right-5 bottom-1"/>
+                        <img src="public/images/model.png" alt="model_photo" className="absolute h-100 z-1 right-5 bottom-1"/>
                             {/* <span className="text-white font-bold ml-7 absolute text-5xl z-10">Future</span> */}
                             
                         </div>
