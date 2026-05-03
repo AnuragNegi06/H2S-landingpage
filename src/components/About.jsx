@@ -174,7 +174,7 @@ function About(){
                 {faqsdata.map((faq,index)=> <Faqs faq={faq} key={index} />)}
                 
             </section>
-            <div className="h-150 w-full bg-[url('images/bg3.png')] bg-cover bg-center text-white gap-30 ">
+            <div className="h-150 w-full bg-[url('/images/bg3.png')] bg-cover bg-center text-white gap-30 ">
             </div>
         </main>
         
