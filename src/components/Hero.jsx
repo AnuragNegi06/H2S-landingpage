@@ -25,7 +25,7 @@ function Hero(){
                     
                     
                 </div>
-                <h4 className="text-center mt-50">ABOUT HACKATHON</h4> 
+                <h4 className="text-center mt-60">ABOUT HACKATHON</h4> 
             </div>
         
         
