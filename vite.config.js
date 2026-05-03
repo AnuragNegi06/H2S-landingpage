@@ -5,6 +5,8 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base:"/H2S-landingpage/"
+  base:process.env.VITE_PLATFORM === "gh"
+    ? "/H2S-landingpage/"
+    : "/"
  
 })
