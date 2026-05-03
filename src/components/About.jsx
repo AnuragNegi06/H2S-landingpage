@@ -93,15 +93,15 @@ function About(){
                     </div>
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 bg-amber-900/0 w-100">
-                    <img src="/images/c1.jpg" alt="img1" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/images/c2.jpg" alt="img2" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/images/c3.jpg" alt="img3" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/images/c4.jpg" alt="img4" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/images/c5.jpg" alt="img5" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/images/c6.jpg" alt="img6" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/images/c7.jpg" alt="img7" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/images/c8.jpg" alt="img8" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/images/c9.jpg" alt="img9" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="images/c1.jpg" alt="img1" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="images/c2.jpg" alt="img2" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="images/c3.jpg" alt="img3" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="images/c4.jpg" alt="img4" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="images/c5.jpg" alt="img5" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="images/c6.jpg" alt="img6" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="images/c7.jpg" alt="img7" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="images/c8.jpg" alt="img8" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="images/c9.jpg" alt="img9" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
                 </div>
             </section>
 
