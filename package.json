@@ -1,5 +1,6 @@
 {
   "name": "landing_page",
+  "homepage": "https://AnuragNegi06.github.io/H2S-landingpage/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,11 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
-<<<<<<< HEAD
-    
-=======
->>>>>>> 06d7addaca6d085f6b09afdbd2e2074b1d947896
+    "preview": "vite preview",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.4",

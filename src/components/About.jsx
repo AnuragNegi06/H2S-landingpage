@@ -93,15 +93,15 @@ function About(){
                     </div>
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 bg-amber-900/0 w-100">
-                    <img src="/public/images/c1.jpg" alt="img1" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/public/images/c2.jpg" alt="img2" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/public/images/c3.jpg" alt="img3" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/public/images/c4.jpg" alt="img4" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/public/images/c5.jpg" alt="img5" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/public/images/c6.jpg" alt="img6" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/public/images/c7.jpg" alt="img7" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/public/images/c8.jpg" alt="img8" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
-                    <img src="/public/images/c9.jpg" alt="img9" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="/images/c1.jpg" alt="img1" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="/images/c2.jpg" alt="img2" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="/images/c3.jpg" alt="img3" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="/images/c4.jpg" alt="img4" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="/images/c5.jpg" alt="img5" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="/images/c6.jpg" alt="img6" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="/images/c7.jpg" alt="img7" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="/images/c8.jpg" alt="img8" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
+                    <img src="/images/c9.jpg" alt="img9" className="hover:scale-110 transition-transform duration-300 ease-in-out"/>
                 </div>
             </section>
 
@@ -123,7 +123,7 @@ function About(){
                         <div class="z-3 absolute w-60 h-60 bg-linear-to-tr from-purple-500/0 to-blue-500 rounded-full border-2 animate-spin"></div>
                     
                         <img
-                        src="/public/images/astro.png "
+                        src="/images/astro.png "
                         alt="Astronaut"
                         class="relative z-10 w-60 h-60 "
                         />
@@ -131,7 +131,7 @@ function About(){
 
 
                     {/* <div className="h-50 w-50 bg-amber-400/0">
-                        <img src ="src/assets/images/astro.png" alt="astronaught" />
+                        <img src ="/images/astro.png" alt="astronaught" />
                     </div> */}
                     <div className="bg-violet-600 h-80 w-125 text-left p-10 pl-0">
                         <h3 className="font-bold">Internship Opportunities</h3>
@@ -181,7 +181,7 @@ function About(){
                 {faqsdata.map((faq,index)=> <Faqs faq={faq} key={index} />)}
                 
             </section>
-            <div className="h-150 w-full bg-[url('/public/images/bg3.png')] bg-cover bg-center text-white gap-30 ">
+            <div className="h-150 w-full bg-[url('/images/bg3.png')] bg-cover bg-center text-white gap-30 ">
             </div>
         </main>
         
