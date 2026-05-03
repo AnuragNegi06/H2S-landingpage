@@ -3,7 +3,7 @@ function Hero(){
     return (
       
         
-                <div className=" flex-col h-screen w-full bg-[url('/public/images/bg1.jpg')] bg-cover bg-center text-white gap-30 ">
+                <div className=" flex-col h-screen w-full bg-[url('images/bg1.jpg')] bg-cover bg-center text-white gap-30 ">
                     
                 <Navbar />
                 
