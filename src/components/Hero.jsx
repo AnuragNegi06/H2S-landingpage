@@ -10,7 +10,7 @@ function Hero(){
                 <div className="flex justify-between top-20  h-90 w-screen bg-black/0 p-10 pt-90">
                     <div>
                         <div className="flex bg-violet-600 h-70 w-68 justify-center ml-10 relative z-2">
-                        <span className="text-white font-bold absolute text-7xl z-3 left-55 bottom-70">CODE THE FUTURE </span>
+                        <span className="text-white font-bold absolute text-7xl z-3 left-55 bottom-50">CODE THE FUTURE </span>
                         <img src="images/model.png" alt="model_photo" className="absolute h-100 z-1 right-5 bottom-1"/>
                             {/* <span className="text-white font-bold ml-7 absolute text-5xl z-10">Future</span> */}
                             
@@ -25,7 +25,7 @@ function Hero(){
                     
                     
                 </div>
-                <h4 className="text-center mt-80">ABOUT HACKATHON</h4> 
+                <h4 className="text-center mt-50">ABOUT HACKATHON</h4> 
             </div>
         
         
