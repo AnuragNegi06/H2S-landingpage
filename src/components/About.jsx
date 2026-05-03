@@ -122,17 +122,10 @@ function About(){
                         <div class="z-3 absolute w-70 h-70 bg-linear-to-b from-purple-500 to-blue-500/0 rounded-full border-2 animate-spin"></div>
                         <div class="z-3 absolute w-60 h-60 bg-linear-to-tr from-purple-500/0 to-blue-500 rounded-full border-2 animate-spin"></div>
                     
-                        <img
-                        src="/images/astro.png "
-                        alt="Astronaut"
-                        class="relative z-10 w-60 h-60 "
-                        />
+                        <img src="/images/astro.png" alt="Astronaut" class="relative z-10 w-60 h-60" />
                     </div>
 
 
-                    {/* <div className="h-50 w-50 bg-amber-400/0">
-                        <img src ="/images/astro.png" alt="astronaught" />
-                    </div> */}
                     <div className="bg-violet-600 h-80 w-125 text-left p-10 pl-0">
                         <h3 className="font-bold">Internship Opportunities</h3>
                         <p>Stand a chance to secure internships at top institutions and innovation labs.</p>
